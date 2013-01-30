@@ -6,6 +6,7 @@ import java.util.regex.Pattern;
 public class regex {
     
     private static String str = "abcccccccccc";
+    private static String str1 = "";
 
     /**
      * @param args
