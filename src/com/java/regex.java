@@ -17,6 +17,7 @@ public class regex {
         Matcher m = p.matcher((CharSequence) str);
         boolean b = m.matches();
         System.out.println(b);
+        
     }
 
 }
